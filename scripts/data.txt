@@ -1,0 +1,1159 @@
+0.0 machine working
+32.51372004833667 machine failure
+32.51372004833667 starting repair
+41.1982202813665 finishing repair
+41.1982202813665 machine working
+60.0 user check: working 100%
+60.50027634457717 machine failure
+60.50027634457717 starting repair
+69.81832510329392 finishing repair
+69.81832510329392 machine working
+101.82634750911632 machine failure
+101.82634750911632 starting repair
+111.23612958280098 finishing repair
+111.23612958280098 machine working
+120.0 user check: working 100%
+140.50438932514112 machine failure
+140.50438932514112 starting repair
+150.0406219657944 finishing repair
+150.0406219657944 machine working
+180.0 user check: working 100%
+181.2178808280977 machine failure
+181.2178808280977 starting repair
+193.54306669905182 finishing repair
+193.54306669905182 machine working
+229.78579354269084 machine failure
+229.78579354269084 starting repair
+238.18905591176775 finishing repair
+238.18905591176775 machine working
+240.0 user check: working 100%
+270.093848445313 machine failure
+270.093848445313 starting repair
+277.96768304612334 finishing repair
+277.96768304612334 machine working
+300.0 user check: working 100%
+307.83841543868544 machine failure
+307.83841543868544 starting repair
+320.3294985362978 finishing repair
+320.3294985362978 machine working
+356.6358420820748 machine failure
+356.6358420820748 starting repair
+360.0 user check: working 83%
+364.85909297367795 finishing repair
+364.85909297367795 machine working
+392.8874743413109 machine failure
+392.8874743413109 starting repair
+404.41589753639875 finishing repair
+404.41589753639875 machine working
+420.0 user check: working 85%
+443.41425704682786 machine failure
+443.41425704682786 starting repair
+455.8008069655265 finishing repair
+455.8008069655265 machine working
+480.0 user check: working 87%
+484.48336844869544 machine failure
+484.48336844869544 starting repair
+497.65686214088356 finishing repair
+497.65686214088356 machine working
+523.3536728215697 machine failure
+523.3536728215697 starting repair
+533.0015480533527 finishing repair
+533.0015480533527 machine working
+540.0 user check: working 88%
+553.047828247325 machine failure
+553.047828247325 starting repair
+563.0155886029785 finishing repair
+563.0155886029785 machine working
+591.720022021439 machine failure
+591.720022021439 starting repair
+596.2294464619093 finishing repair
+596.2294464619093 machine working
+600.0 user check: working 90%
+623.0927425627832 machine failure
+623.0927425627832 starting repair
+632.9300484335652 finishing repair
+632.9300484335652 machine working
+660.0 user check: working 90%
+667.1819350819101 machine failure
+667.1819350819101 starting repair
+677.9196365314735 finishing repair
+677.9196365314735 machine working
+706.5372977048396 machine failure
+706.5372977048396 starting repair
+715.4850072628326 finishing repair
+715.4850072628326 machine working
+720.0 user check: working 91%
+751.9323426626565 machine failure
+751.9323426626565 starting repair
+762.8327292210968 finishing repair
+762.8327292210968 machine working
+780.0 user check: working 92%
+794.8712285742217 machine failure
+794.8712285742217 starting repair
+806.5577728548001 finishing repair
+806.5577728548001 machine working
+834.3059881811188 machine failure
+834.3059881811188 starting repair
+840.0 user check: working 85%
+840.9908529621649 finishing repair
+840.9908529621649 machine working
+869.6098940361851 machine failure
+869.6098940361851 starting repair
+878.5588001879731 finishing repair
+878.5588001879731 machine working
+900.0 user check: working 86%
+910.8679153508875 machine failure
+910.8679153508875 starting repair
+919.9144224155239 finishing repair
+919.9144224155239 machine working
+950.5920272695643 machine failure
+950.5920272695643 starting repair
+957.9635171462965 finishing repair
+957.9635171462965 machine working
+960.0 user check: working 87%
+981.3526630501458 machine failure
+981.3526630501458 starting repair
+987.4668725948871 finishing repair
+987.4668725948871 machine working
+1007.3342754246412 machine failure
+1007.3342754246412 starting repair
+1015.4174985413139 finishing repair
+1015.4174985413139 machine working
+1020.0 user check: working 88%
+1047.174021315465 machine failure
+1047.174021315465 starting repair
+1057.232978378139 finishing repair
+1057.232978378139 machine working
+1080.0 user check: working 88%
+1092.028398440934 machine failure
+1092.028398440934 starting repair
+1104.139027088151 finishing repair
+1104.139027088151 machine working
+1133.7961044084052 machine failure
+1133.7961044084052 starting repair
+1140.0 user check: working 84%
+1144.2081442282513 finishing repair
+1144.2081442282513 machine working
+1182.5865006177635 machine failure
+1182.5865006177635 starting repair
+1192.4541455032115 finishing repair
+1192.4541455032115 machine working
+1200.0 user check: working 85%
+1224.6113477679385 machine failure
+1224.6113477679385 starting repair
+1234.295882097722 finishing repair
+1234.295882097722 machine working
+1260.0 user check: working 85%
+1262.2625018205388 machine failure
+1262.2625018205388 starting repair
+1272.1408300563196 finishing repair
+1272.1408300563196 machine working
+1305.4372859472298 machine failure
+1305.4372859472298 starting repair
+1311.361601374272 finishing repair
+1311.361601374272 machine working
+1320.0 user check: working 86%
+1336.0312838194625 machine failure
+1336.0312838194625 starting repair
+1345.6275848913324 finishing repair
+1345.6275848913324 machine working
+1380.0 user check: working 86%
+1386.4245827995883 machine failure
+1386.4245827995883 starting repair
+1397.0642841459112 finishing repair
+1397.0642841459112 machine working
+1412.742660695446 machine failure
+1412.742660695446 starting repair
+1422.9261965811731 finishing repair
+1422.9261965811731 machine working
+1440.0 user check: working 87%
+1451.994827126265 machine failure
+1451.994827126265 starting repair
+1460.3652114733318 finishing repair
+1460.3652114733318 machine working
+1491.2059518534572 machine failure
+1491.2059518534572 starting repair
+1500.0 user check: working 84%
+1500.5552963562673 finishing repair
+1500.5552963562673 machine working
+1527.6231921865235 machine failure
+1527.6231921865235 starting repair
+1537.7031467409684 finishing repair
+1537.7031467409684 machine working
+1560.0 user check: working 84%
+1563.10879190629 machine failure
+1563.10879190629 starting repair
+1571.4963053671129 finishing repair
+1571.4963053671129 machine working
+1608.4792615489564 machine failure
+1608.4792615489564 starting repair
+1617.6989742766286 finishing repair
+1617.6989742766286 machine working
+1620.0 user check: working 85%
+1647.0470071442655 machine failure
+1647.0470071442655 starting repair
+1656.721372060454 finishing repair
+1656.721372060454 machine working
+1680.0 user check: working 85%
+1692.156385303467 machine failure
+1692.156385303467 starting repair
+1705.2386965521857 finishing repair
+1705.2386965521857 machine working
+1735.1678868534696 machine failure
+1735.1678868534696 starting repair
+1740.0 user check: working 82%
+1745.6432607631227 finishing repair
+1745.6432607631227 machine working
+1776.534085541623 machine failure
+1776.534085541623 starting repair
+1786.2360311476514 finishing repair
+1786.2360311476514 machine working
+1800.0 user check: working 83%
+1827.1387645435464 machine failure
+1827.1387645435464 starting repair
+1838.2232049787367 finishing repair
+1838.2232049787367 machine working
+1860.0 user check: working 83%
+1868.639061387586 machine failure
+1868.639061387586 starting repair
+1880.9075561206494 finishing repair
+1880.9075561206494 machine working
+1910.0274168718747 machine failure
+1910.0274168718747 starting repair
+1920.0 user check: working 81%
+1924.8179762030913 finishing repair
+1924.8179762030913 machine working
+1962.3024198975895 machine failure
+1962.3024198975895 starting repair
+1973.322381994433 finishing repair
+1973.322381994433 machine working
+1980.0 user check: working 81%
+2002.6823056507267 machine failure
+2002.6823056507267 starting repair
+2009.9604886490686 finishing repair
+2009.9604886490686 machine working
+2040.0 user check: working 82%
+2040.514408561052 machine failure
+2040.514408561052 starting repair
+2055.4295896821523 finishing repair
+2055.4295896821523 machine working
+2085.27341308457 machine failure
+2085.27341308457 starting repair
+2094.7836797894593 finishing repair
+2094.7836797894593 machine working
+2100.0 user check: working 82%
+2126.4238022907784 machine failure
+2126.4238022907784 starting repair
+2140.092637800319 finishing repair
+2140.092637800319 machine working
+2160.0 user check: working 83%
+2180.3346828011113 machine failure
+2180.3346828011113 starting repair
+2188.510167574034 finishing repair
+2188.510167574034 machine working
+2220.0 user check: working 83%
+2220.590047037529 machine failure
+2220.590047037529 starting repair
+2231.7785930228824 finishing repair
+2231.7785930228824 machine working
+2266.229351107059 machine failure
+2266.229351107059 starting repair
+2274.811419722008 finishing repair
+2274.811419722008 machine working
+2280.0 user check: working 84%
+2310.2701846021305 machine failure
+2310.2701846021305 starting repair
+2321.813098845017 finishing repair
+2321.813098845017 machine working
+2340.0 user check: working 84%
+2347.488034409221 machine failure
+2347.488034409221 starting repair
+2356.39337148849 finishing repair
+2356.39337148849 machine working
+2386.218939199827 machine failure
+2386.218939199827 starting repair
+2395.734289837552 finishing repair
+2395.734289837552 machine working
+2400.0 user check: working 85%
+2421.6344559964346 machine failure
+2421.6344559964346 starting repair
+2432.081620496428 finishing repair
+2432.081620496428 machine working
+2456.716419765615 machine failure
+2456.716419765615 starting repair
+2460.0 user check: working 82%
+2467.8911260395403 finishing repair
+2467.8911260395403 machine working
+2495.3710719984156 machine failure
+2495.3710719984156 starting repair
+2506.5936883336985 finishing repair
+2506.5936883336985 machine working
+2520.0 user check: working 83%
+2527.3662425682714 machine failure
+2527.3662425682714 starting repair
+2539.5815380248405 finishing repair
+2539.5815380248405 machine working
+2574.210391261515 machine failure
+2574.210391261515 starting repair
+2580.0 user check: working 81%
+2588.70684083673 finishing repair
+2588.70684083673 machine working
+2620.6206231405295 machine failure
+2620.6206231405295 starting repair
+2627.133005301958 finishing repair
+2627.133005301958 machine working
+2640.0 user check: working 81%
+2649.64552270281 machine failure
+2649.64552270281 starting repair
+2660.859197642216 finishing repair
+2660.859197642216 machine working
+2694.586309342754 machine failure
+2694.586309342754 starting repair
+2700.0 user check: working 80%
+2704.0216319563806 finishing repair
+2704.0216319563806 machine working
+2742.22675675315 machine failure
+2742.22675675315 starting repair
+2748.5098703104877 finishing repair
+2748.5098703104877 machine working
+2760.0 user check: working 80%
+2782.1804486840797 machine failure
+2782.1804486840797 starting repair
+2795.716830058538 finishing repair
+2795.716830058538 machine working
+2820.0 user check: working 80%
+2827.6795831184554 machine failure
+2827.6795831184554 starting repair
+2836.454506507174 finishing repair
+2836.454506507174 machine working
+2863.3163175978675 machine failure
+2863.3163175978675 starting repair
+2871.985825798081 finishing repair
+2871.985825798081 machine working
+2880.0 user check: working 81%
+2899.5023330798326 machine failure
+2899.5023330798326 starting repair
+2910.0864690110807 finishing repair
+2910.0864690110807 machine working
+2940.0 user check: working 81%
+2948.310788201092 machine failure
+2948.310788201092 starting repair
+2957.992162316712 finishing repair
+2957.992162316712 machine working
+2991.201056234206 machine failure
+2991.201056234206 starting repair
+3000.0 user check: working 80%
+3004.3668046299317 finishing repair
+3004.3668046299317 machine working
+3034.027798177856 machine failure
+3034.027798177856 starting repair
+3043.9343244124807 finishing repair
+3043.9343244124807 machine working
+3060.0 user check: working 80%
+3079.4277363763167 machine failure
+3079.4277363763167 starting repair
+3090.99146591905 finishing repair
+3090.99146591905 machine working
+3120.0 user check: working 80%
+3126.913993595283 machine failure
+3126.913993595283 starting repair
+3139.130944929141 finishing repair
+3139.130944929141 machine working
+3167.8119284640347 machine failure
+3167.8119284640347 starting repair
+3178.766501011706 finishing repair
+3178.766501011706 machine working
+3180.0 user check: working 81%
+3202.2145548024682 machine failure
+3202.2145548024682 starting repair
+3212.3746258007254 finishing repair
+3212.3746258007254 machine working
+3240.0 user check: working 81%
+3243.5258258877498 machine failure
+3243.5258258877498 starting repair
+3254.8919681280986 finishing repair
+3254.8919681280986 machine working
+3284.742011429057 machine failure
+3284.742011429057 starting repair
+3292.7968402516117 finishing repair
+3292.7968402516117 machine working
+3300.0 user check: working 81%
+3315.054254748495 machine failure
+3315.054254748495 starting repair
+3323.9810614482567 finishing repair
+3323.9810614482567 machine working
+3351.0675006452357 machine failure
+3351.0675006452357 starting repair
+3360.0 user check: working 80%
+3362.541543389842 finishing repair
+3362.541543389842 machine working
+3397.645327705887 machine failure
+3397.645327705887 starting repair
+3404.8441205020335 finishing repair
+3404.8441205020335 machine working
+3420.0 user check: working 80%
+3436.188331007293 machine failure
+3436.188331007293 starting repair
+3445.9734000897374 finishing repair
+3445.9734000897374 machine working
+3478.9610688365174 machine failure
+3478.9610688365174 starting repair
+3480.0 user check: working 79%
+3487.1049505478113 finishing repair
+3487.1049505478113 machine working
+3522.969688185476 machine failure
+3522.969688185476 starting repair
+3532.0864097276117 finishing repair
+3532.0864097276117 machine working
+3540.0 user check: working 79%
+3563.0222122812456 machine failure
+3563.0222122812456 starting repair
+3571.8518462258885 finishing repair
+3571.8518462258885 machine working
+3600.0 user check: working 80%
+3604.915348156069 machine failure
+3604.915348156069 starting repair
+3611.046866482488 finishing repair
+3611.046866482488 machine working
+3642.4386935673233 machine failure
+3642.4386935673233 starting repair
+3651.1765203103478 finishing repair
+3651.1765203103478 machine working
+3660.0 user check: working 80%
+3681.4393820790215 machine failure
+3681.4393820790215 starting repair
+3693.6616429844844 finishing repair
+3693.6616429844844 machine working
+3720.0 user check: working 80%
+3726.965120580626 machine failure
+3726.965120580626 starting repair
+3738.214822078478 finishing repair
+3738.214822078478 machine working
+3754.578687067878 machine failure
+3754.578687067878 starting repair
+3761.969619921899 finishing repair
+3761.969619921899 machine working
+3780.0 user check: working 80%
+3793.2039925137547 machine failure
+3793.2039925137547 starting repair
+3799.849581566085 finishing repair
+3799.849581566085 machine working
+3834.074819356791 machine failure
+3834.074819356791 starting repair
+3840.0 user check: working 79%
+3844.2758399539975 finishing repair
+3844.2758399539975 machine working
+3885.7651214866873 machine failure
+3885.7651214866873 starting repair
+3893.4795520930506 finishing repair
+3893.4795520930506 machine working
+3900.0 user check: working 80%
+3923.767739350455 machine failure
+3923.767739350455 starting repair
+3932.2746890510903 finishing repair
+3932.2746890510903 machine working
+3958.909143343826 machine failure
+3958.909143343826 starting repair
+3960.0 user check: working 78%
+3967.1190942526855 finishing repair
+3967.1190942526855 machine working
+3993.0957705071355 machine failure
+3993.0957705071355 starting repair
+4004.9589827131567 finishing repair
+4004.9589827131567 machine working
+4020.0 user check: working 79%
+4028.601819424082 machine failure
+4028.601819424082 starting repair
+4040.254237783439 finishing repair
+4040.254237783439 machine working
+4070.4492569482036 machine failure
+4070.4492569482036 starting repair
+4080.0 user check: working 77%
+4082.459350715778 finishing repair
+4082.459350715778 machine working
+4108.687205396867 machine failure
+4108.687205396867 starting repair
+4119.301473428286 finishing repair
+4119.301473428286 machine working
+4138.884845664524 machine failure
+4138.884845664524 starting repair
+4140.0 user check: working 76%
+4146.8496803396365 finishing repair
+4146.8496803396365 machine working
+4184.335627175275 machine failure
+4184.335627175275 starting repair
+4195.000692356173 finishing repair
+4195.000692356173 machine working
+4200.0 user check: working 77%
+4230.887208485901 machine failure
+4230.887208485901 starting repair
+4240.175024554502 finishing repair
+4240.175024554502 machine working
+4260.0 user check: working 77%
+4262.87370945112 machine failure
+4262.87370945112 starting repair
+4274.275004432701 finishing repair
+4274.275004432701 machine working
+4300.891971495556 machine failure
+4300.891971495556 starting repair
+4308.973968998594 finishing repair
+4308.973968998594 machine working
+4320.0 user check: working 77%
+4341.566426571306 machine failure
+4341.566426571306 starting repair
+4353.456312857971 finishing repair
+4353.456312857971 machine working
+4380.0 user check: working 78%
+4385.469785841704 machine failure
+4385.469785841704 starting repair
+4393.337026880892 finishing repair
+4393.337026880892 machine working
+4421.165970942851 machine failure
+4421.165970942851 starting repair
+4432.5321557147845 finishing repair
+4432.5321557147845 machine working
+4440.0 user check: working 78%
+4468.95374528029 machine failure
+4468.95374528029 starting repair
+4478.778159098985 finishing repair
+4478.778159098985 machine working
+4500.0 user check: working 78%
+4506.683217915863 machine failure
+4506.683217915863 starting repair
+4515.805253495006 finishing repair
+4515.805253495006 machine working
+4543.906342459231 machine failure
+4543.906342459231 starting repair
+4552.979819697721 finishing repair
+4552.979819697721 machine working
+4560.0 user check: working 78%
+4581.554220648346 machine failure
+4581.554220648346 starting repair
+4593.892796871115 finishing repair
+4593.892796871115 machine working
+4620.0 user check: working 79%
+4628.627324764649 machine failure
+4628.627324764649 starting repair
+4637.70906107698 finishing repair
+4637.70906107698 machine working
+4661.938517185874 machine failure
+4661.938517185874 starting repair
+4672.876426739519 finishing repair
+4672.876426739519 machine working
+4680.0 user check: working 79%
+4713.69897038982 machine failure
+4713.69897038982 starting repair
+4724.622873803498 finishing repair
+4724.622873803498 machine working
+4740.0 user check: working 79%
+4755.333436525491 machine failure
+4755.333436525491 starting repair
+4763.876326747037 finishing repair
+4763.876326747037 machine working
+4800.0 user check: working 80%
+4801.368414206401 machine failure
+4801.368414206401 starting repair
+4810.195134388252 finishing repair
+4810.195134388252 machine working
+4836.450952782071 machine failure
+4836.450952782071 starting repair
+4849.368025749483 finishing repair
+4849.368025749483 machine working
+4860.0 user check: working 80%
+4882.61462952691 machine failure
+4882.61462952691 starting repair
+4889.84580809508 finishing repair
+4889.84580809508 machine working
+4911.110463677689 machine failure
+4911.110463677689 starting repair
+4920.0 user check: working 79%
+4921.782457511572 finishing repair
+4921.782457511572 machine working
+4952.5781860706375 machine failure
+4952.5781860706375 starting repair
+4961.841485357052 finishing repair
+4961.841485357052 machine working
+4980.0 user check: working 79%
+4990.746506095888 machine failure
+4990.746506095888 starting repair
+5002.5212475198205 finishing repair
+5002.5212475198205 machine working
+5033.59710387583 machine failure
+5033.59710387583 starting repair
+5040.0 user check: working 78%
+5043.587843040221 finishing repair
+5043.587843040221 machine working
+5066.262830775088 machine failure
+5066.262830775088 starting repair
+5079.351336391466 finishing repair
+5079.351336391466 machine working
+5100.0 user check: working 78%
+5109.878644806006 machine failure
+5109.878644806006 starting repair
+5122.239186008032 finishing repair
+5122.239186008032 machine working
+5150.537936751253 machine failure
+5150.537936751253 starting repair
+5157.372566647327 finishing repair
+5157.372566647327 machine working
+5160.0 user check: working 79%
+5190.6593288438835 machine failure
+5190.6593288438835 starting repair
+5200.404852384331 finishing repair
+5200.404852384331 machine working
+5220.0 user check: working 79%
+5227.264583910195 machine failure
+5227.264583910195 starting repair
+5238.263083955395 finishing repair
+5238.263083955395 machine working
+5262.658684431498 machine failure
+5262.658684431498 starting repair
+5273.743549066296 finishing repair
+5273.743549066296 machine working
+5280.0 user check: working 79%
+5303.48535050245 machine failure
+5303.48535050245 starting repair
+5310.521009385463 finishing repair
+5310.521009385463 machine working
+5340.0 user check: working 79%
+5340.9464707655325 machine failure
+5340.9464707655325 starting repair
+5351.310475773948 finishing repair
+5351.310475773948 machine working
+5374.465096982522 machine failure
+5374.465096982522 starting repair
+5383.301986104559 finishing repair
+5383.301986104559 machine working
+5400.0 user check: working 80%
+5411.842439718105 machine failure
+5411.842439718105 starting repair
+5422.987714216351 finishing repair
+5422.987714216351 machine working
+5459.761900301831 machine failure
+5459.761900301831 starting repair
+5460.0 user check: working 79%
+5469.768886408183 finishing repair
+5469.768886408183 machine working
+5508.272633406383 machine failure
+5508.272633406383 starting repair
+5520.0 user check: working 78%
+5520.409885415011 finishing repair
+5520.409885415011 machine working
+5541.147557987618 machine failure
+5541.147557987618 starting repair
+5550.915876543938 finishing repair
+5550.915876543938 machine working
+5580.0 user check: working 78%
+5585.4072725773 machine failure
+5585.4072725773 starting repair
+5597.330730386859 finishing repair
+5597.330730386859 machine working
+5631.704338357175 machine failure
+5631.704338357175 starting repair
+5640.0 user check: working 77%
+5647.104589432403 finishing repair
+5647.104589432403 machine working
+5676.971308667508 machine failure
+5676.971308667508 starting repair
+5687.79481048372 finishing repair
+5687.79481048372 machine working
+5700.0 user check: working 77%
+5720.527384434535 machine failure
+5720.527384434535 starting repair
+5730.9799792088725 finishing repair
+5730.9799792088725 machine working
+5760.0 user check: working 78%
+5760.753384098543 machine failure
+5760.753384098543 starting repair
+5772.707186453219 finishing repair
+5772.707186453219 machine working
+5796.063176320289 machine failure
+5796.063176320289 starting repair
+5808.276034974356 finishing repair
+5808.276034974356 machine working
+5820.0 user check: working 78%
+5841.507236832623 machine failure
+5841.507236832623 starting repair
+5850.775314679235 finishing repair
+5850.775314679235 machine working
+5876.403596671987 machine failure
+5876.403596671987 starting repair
+5880.0 user check: working 77%
+5886.835675677923 finishing repair
+5886.835675677923 machine working
+5918.2040000282495 machine failure
+5918.2040000282495 starting repair
+5926.5361839332345 finishing repair
+5926.5361839332345 machine working
+5940.0 user check: working 77%
+5963.453672183635 machine failure
+5963.453672183635 starting repair
+5967.492865753243 finishing repair
+5967.492865753243 machine working
+5996.529172872742 machine failure
+5996.529172872742 starting repair
+6000.0 user check: working 77%
+6004.4343339662255 finishing repair
+6004.4343339662255 machine working
+6040.041679859566 machine failure
+6040.041679859566 starting repair
+6051.888557760208 finishing repair
+6051.888557760208 machine working
+6060.0 user check: working 77%
+6077.487911384196 machine failure
+6077.487911384196 starting repair
+6087.087979593211 finishing repair
+6087.087979593211 machine working
+6118.259213686038 machine failure
+6118.259213686038 starting repair
+6120.0 user check: working 76%
+6129.775220890431 finishing repair
+6129.775220890431 machine working
+6163.967068932764 machine failure
+6163.967068932764 starting repair
+6174.9165484732775 finishing repair
+6174.9165484732775 machine working
+6180.0 user check: working 76%
+6209.748346131521 machine failure
+6209.748346131521 starting repair
+6218.3226217524625 finishing repair
+6218.3226217524625 machine working
+6240.0 user check: working 76%
+6246.2979232006355 machine failure
+6246.2979232006355 starting repair
+6254.920812855387 finishing repair
+6254.920812855387 machine working
+6279.5148660796485 machine failure
+6279.5148660796485 starting repair
+6291.714742742023 finishing repair
+6291.714742742023 machine working
+6300.0 user check: working 77%
+6329.1910824436945 machine failure
+6329.1910824436945 starting repair
+6339.720802689083 finishing repair
+6339.720802689083 machine working
+6360.0 user check: working 77%
+6367.408176905243 machine failure
+6367.408176905243 starting repair
+6374.579082622138 finishing repair
+6374.579082622138 machine working
+6408.131521194885 machine failure
+6408.131521194885 starting repair
+6415.7799991195525 finishing repair
+6415.7799991195525 machine working
+6420.0 user check: working 77%
+6446.998155203287 machine failure
+6446.998155203287 starting repair
+6460.537678926741 finishing repair
+6460.537678926741 machine working
+6480.0 user check: working 77%
+6493.837190540684 machine failure
+6493.837190540684 starting repair
+6506.145776781322 finishing repair
+6506.145776781322 machine working
+6537.463464440396 machine failure
+6537.463464440396 starting repair
+6540.0 user check: working 77%
+6546.0506144688825 finishing repair
+6546.0506144688825 machine working
+6570.432365268334 machine failure
+6570.432365268334 starting repair
+6578.574157480966 finishing repair
+6578.574157480966 machine working
+6600.0 user check: working 77%
+6609.714464168669 machine failure
+6609.714464168669 starting repair
+6619.665222544563 finishing repair
+6619.665222544563 machine working
+6640.418141027719 machine failure
+6640.418141027719 starting repair
+6651.221504485437 finishing repair
+6651.221504485437 machine working
+6660.0 user check: working 77%
+6685.046393541773 machine failure
+6685.046393541773 starting repair
+6692.484623163103 finishing repair
+6692.484623163103 machine working
+6720.0 user check: working 77%
+6724.074641337586 machine failure
+6724.074641337586 starting repair
+6733.408491949172 finishing repair
+6733.408491949172 machine working
+6763.256610602593 machine failure
+6763.256610602593 starting repair
+6772.13315482668 finishing repair
+6772.13315482668 machine working
+6780.0 user check: working 77%
+6797.925831301321 machine failure
+6797.925831301321 starting repair
+6809.302504088135 finishing repair
+6809.302504088135 machine working
+6833.4962785621365 machine failure
+6833.4962785621365 starting repair
+6840.0 user check: working 77%
+6841.017818602637 finishing repair
+6841.017818602637 machine working
+6870.436267849666 machine failure
+6870.436267849666 starting repair
+6881.101608194531 finishing repair
+6881.101608194531 machine working
+6900.0 user check: working 77%
+6909.293526156822 machine failure
+6909.293526156822 starting repair
+6917.924466799226 finishing repair
+6917.924466799226 machine working
+6945.775842045066 machine failure
+6945.775842045066 starting repair
+6957.6451514456 finishing repair
+6957.6451514456 machine working
+6960.0 user check: working 77%
+6989.955433825781 machine failure
+6989.955433825781 starting repair
+6994.294415108166 finishing repair
+6994.294415108166 machine working
+7020.0 user check: working 77%
+7034.760059288133 machine failure
+7034.760059288133 starting repair
+7045.654490521653 finishing repair
+7045.654490521653 machine working
+7075.241624241792 machine failure
+7075.241624241792 starting repair
+7080.0 user check: working 77%
+7081.313319564507 finishing repair
+7081.313319564507 machine working
+7113.327041392493 machine failure
+7113.327041392493 starting repair
+7123.836819099771 finishing repair
+7123.836819099771 machine working
+7140.0 user check: working 77%
+7145.300453636183 machine failure
+7145.300453636183 starting repair
+7157.711789448846 finishing repair
+7157.711789448846 machine working
+7183.3956180226205 machine failure
+7183.3956180226205 starting repair
+7193.230865121248 finishing repair
+7193.230865121248 machine working
+7200.0 user check: working 77%
+7227.516050406751 machine failure
+7227.516050406751 starting repair
+7235.115535260618 finishing repair
+7235.115535260618 machine working
+7260.0 user check: working 77%
+7266.341156603272 machine failure
+7266.341156603272 starting repair
+7274.622338065664 finishing repair
+7274.622338065664 machine working
+7302.055452254598 machine failure
+7302.055452254598 starting repair
+7313.113684346164 finishing repair
+7313.113684346164 machine working
+7320.0 user check: working 77%
+7344.795553698902 machine failure
+7344.795553698902 starting repair
+7356.804862207705 finishing repair
+7356.804862207705 machine working
+7380.0 user check: working 78%
+7390.923315890393 machine failure
+7390.923315890393 starting repair
+7400.328066541829 finishing repair
+7400.328066541829 machine working
+7431.110915566021 machine failure
+7431.110915566021 starting repair
+7440.0 user check: working 77%
+7440.976072472272 finishing repair
+7440.976072472272 machine working
+7469.554207637225 machine failure
+7469.554207637225 starting repair
+7476.0789166933655 finishing repair
+7476.0789166933655 machine working
+7500.0 user check: working 77%
+7512.547611031331 machine failure
+7512.547611031331 starting repair
+7525.172956036271 finishing repair
+7525.172956036271 machine working
+7560.0 user check: working 77%
+7562.769284101292 machine failure
+7562.769284101292 starting repair
+7571.734430444903 finishing repair
+7571.734430444903 machine working
+7598.916558284266 machine failure
+7598.916558284266 starting repair
+7604.043368815464 finishing repair
+7604.043368815464 machine working
+7620.0 user check: working 77%
+7640.479365991383 machine failure
+7640.479365991383 starting repair
+7649.136832448082 finishing repair
+7649.136832448082 machine working
+7679.048435408985 machine failure
+7679.048435408985 starting repair
+7680.0 user check: working 77%
+7688.799729059619 finishing repair
+7688.799729059619 machine working
+7714.571160204849 machine failure
+7714.571160204849 starting repair
+7725.884013081479 finishing repair
+7725.884013081479 machine working
+7740.0 user check: working 77%
+7744.933412106504 machine failure
+7744.933412106504 starting repair
+7758.313253784702 finishing repair
+7758.313253784702 machine working
+7793.0242464546045 machine failure
+7793.0242464546045 starting repair
+7800.0 user check: working 76%
+7804.449310810123 finishing repair
+7804.449310810123 machine working
+7833.94887214837 machine failure
+7833.94887214837 starting repair
+7841.834980485471 finishing repair
+7841.834980485471 machine working
+7860.0 user check: working 77%
+7864.903456212538 machine failure
+7864.903456212538 starting repair
+7876.083430847113 finishing repair
+7876.083430847113 machine working
+7902.953708368509 machine failure
+7902.953708368509 starting repair
+7911.062987915412 finishing repair
+7911.062987915412 machine working
+7920.0 user check: working 77%
+7949.781186759093 machine failure
+7949.781186759093 starting repair
+7960.0587068910045 finishing repair
+7960.0587068910045 machine working
+7980.0 user check: working 77%
+7995.812338721465 machine failure
+7995.812338721465 starting repair
+8008.508757240226 finishing repair
+8008.508757240226 machine working
+8040.0 user check: working 77%
+8042.184372026323 machine failure
+8042.184372026323 starting repair
+8048.461490951275 finishing repair
+8048.461490951275 machine working
+8084.465509721046 machine failure
+8084.465509721046 starting repair
+8093.2099630855055 finishing repair
+8093.2099630855055 machine working
+8100.0 user check: working 77%
+8123.237715354381 machine failure
+8123.237715354381 starting repair
+8130.643688126308 finishing repair
+8130.643688126308 machine working
+8160.0 user check: working 77%
+8161.656997432918 machine failure
+8161.656997432918 starting repair
+8172.215540838867 finishing repair
+8172.215540838867 machine working
+8213.393882071265 machine failure
+8213.393882071265 starting repair
+8220.0 user check: working 77%
+8222.695644044048 finishing repair
+8222.695644044048 machine working
+8247.538410664794 machine failure
+8247.538410664794 starting repair
+8257.453939374635 finishing repair
+8257.453939374635 machine working
+8280.0 user check: working 77%
+8286.163310768045 machine failure
+8286.163310768045 starting repair
+8293.40916791437 finishing repair
+8293.40916791437 machine working
+8328.14196254963 machine failure
+8328.14196254963 starting repair
+8338.707293587166 finishing repair
+8338.707293587166 machine working
+8340.0 user check: working 77%
+8364.81129823275 machine failure
+8364.81129823275 starting repair
+8374.87432630065 finishing repair
+8374.87432630065 machine working
+8399.342356935824 machine failure
+8399.342356935824 starting repair
+8400.0 user check: working 77%
+8406.762273356984 finishing repair
+8406.762273356984 machine working
+8446.262805204691 machine failure
+8446.262805204691 starting repair
+8456.370261520751 finishing repair
+8456.370261520751 machine working
+8460.0 user check: working 77%
+8489.571087308579 machine failure
+8489.571087308579 starting repair
+8498.337371465084 finishing repair
+8498.337371465084 machine working
+8520.0 user check: working 77%
+8531.321958194045 machine failure
+8531.321958194045 starting repair
+8541.741846049077 finishing repair
+8541.741846049077 machine working
+8572.110405481673 machine failure
+8572.110405481673 starting repair
+8580.0 user check: working 76%
+8581.328710422893 finishing repair
+8581.328710422893 machine working
+8614.430867807034 machine failure
+8614.430867807034 starting repair
+8626.364754669217 finishing repair
+8626.364754669217 machine working
+8640.0 user check: working 77%
+8664.830949282978 machine failure
+8664.830949282978 starting repair
+8674.02351957743 finishing repair
+8674.02351957743 machine working
+8700.0 user check: working 77%
+8705.685406095368 machine failure
+8705.685406095368 starting repair
+8714.14941410576 finishing repair
+8714.14941410576 machine working
+8743.735969806832 machine failure
+8743.735969806832 starting repair
+8759.370004019742 finishing repair
+8759.370004019742 machine working
+8760.0 user check: working 77%
+8782.296425811604 machine failure
+8782.296425811604 starting repair
+8793.032859397272 finishing repair
+8793.032859397272 machine working
+8810.761753384388 machine failure
+8810.761753384388 starting repair
+8820.0 user check: working 76%
+8825.042682706444 finishing repair
+8825.042682706444 machine working
+8853.811337615185 machine failure
+8853.811337615185 starting repair
+8863.209712016753 finishing repair
+8863.209712016753 machine working
+8880.0 user check: working 77%
+8890.233723880696 machine failure
+8890.233723880696 starting repair
+8901.388062320928 finishing repair
+8901.388062320928 machine working
+8935.248962639964 machine failure
+8935.248962639964 starting repair
+8940.0 user check: working 76%
+8949.887457216995 finishing repair
+8949.887457216995 machine working
+8972.410013637595 machine failure
+8972.410013637595 starting repair
+8982.64227156461 finishing repair
+8982.64227156461 machine working
+9000.0 user check: working 76%
+9011.37994358099 machine failure
+9011.37994358099 starting repair
+9021.001076395529 finishing repair
+9021.001076395529 machine working
+9057.642116470106 machine failure
+9057.642116470106 starting repair
+9060.0 user check: working 76%
+9066.524256295883 finishing repair
+9066.524256295883 machine working
+9104.330323241706 machine failure
+9104.330323241706 starting repair
+9115.798011364312 finishing repair
+9115.798011364312 machine working
+9120.0 user check: working 76%
+9147.462229940451 machine failure
+9147.462229940451 starting repair
+9158.411539320203 finishing repair
+9158.411539320203 machine working
+9180.0 user check: working 76%
+9182.956744627547 machine failure
+9182.956744627547 starting repair
+9190.757664990644 finishing repair
+9190.757664990644 machine working
+9222.187811649634 machine failure
+9222.187811649634 starting repair
+9230.236304852195 finishing repair
+9230.236304852195 machine working
+9240.0 user check: working 76%
+9249.704609131646 machine failure
+9249.704609131646 starting repair
+9257.683628200131 finishing repair
+9257.683628200131 machine working
+9285.15679148096 machine failure
+9285.15679148096 starting repair
+9297.21016147953 finishing repair
+9297.21016147953 machine working
+9300.0 user check: working 76%
+9321.27131340675 machine failure
+9321.27131340675 starting repair
+9333.50095270716 finishing repair
+9333.50095270716 machine working
+9360.0 user check: working 76%
+9362.223321545589 machine failure
+9362.223321545589 starting repair
+9372.826673876201 finishing repair
+9372.826673876201 machine working
+9406.410203891834 machine failure
+9406.410203891834 starting repair
+9415.728914707497 finishing repair
+9415.728914707497 machine working
+9420.0 user check: working 77%
+9444.469856825084 machine failure
+9444.469856825084 starting repair
+9455.012612845821 finishing repair
+9455.012612845821 machine working
+9480.0 user check: working 77%
+9482.748077838489 machine failure
+9482.748077838489 starting repair
+9498.90051575191 finishing repair
+9498.90051575191 machine working
+9532.387778644365 machine failure
+9532.387778644365 starting repair
+9540.0 user check: working 76%
+9543.77496246258 finishing repair
+9543.77496246258 machine working
+9572.334428214706 machine failure
+9572.334428214706 starting repair
+9584.387299427117 finishing repair
+9584.387299427117 machine working
+9600.0 user check: working 76%
+9609.076498999033 machine failure
+9609.076498999033 starting repair
+9620.52113198707 finishing repair
+9620.52113198707 machine working
+9647.59174863269 machine failure
+9647.59174863269 starting repair
+9654.239158416185 finishing repair
+9654.239158416185 machine working
+9660.0 user check: working 77%
+9682.237041589164 machine failure
+9682.237041589164 starting repair
+9691.01449123527 finishing repair
+9691.01449123527 machine working
+9720.0 user check: working 77%
+9724.558602327852 machine failure
+9724.558602327852 starting repair
+9732.548709183158 finishing repair
+9732.548709183158 machine working
+9753.704995138178 machine failure
+9753.704995138178 starting repair
+9764.547712531168 finishing repair
+9764.547712531168 machine working
+9780.0 user check: working 77%
+9800.526159255409 machine failure
+9800.526159255409 starting repair
+9808.556176768641 finishing repair
+9808.556176768641 machine working
+9840.0 user check: working 77%
+9845.24097361689 machine failure
+9845.24097361689 starting repair
+9858.407912163975 finishing repair
+9858.407912163975 machine working
+9886.620175163349 machine failure
+9886.620175163349 starting repair
+9895.228395151338 finishing repair
+9895.228395151338 machine working
+9900.0 user check: working 77%
+9927.048295420456 machine failure
+9927.048295420456 starting repair
+9936.151937090597 finishing repair
+9936.151937090597 machine working
+9960.0 user check: working 77%
+9967.524563196754 machine failure
+9967.524563196754 starting repair
+9974.369415547979 finishing repair
+9974.369415547979 machine working
